@@ -1,0 +1,5 @@
+# PyTorch-Transfer-Learning
+Deep Transfer Learning Tutorial in PyTorch on Animals-10 Dataset
+
+Deep learning on images is extremely popular and every few months there is a new algorithm that pushes the limits on prediction accuracy. Just a few years ago these state of the art algorithms and the knowledge behind how to build them were available to a few research experts. However the landscape is changing due to increasingly accessible and low cost computational resources, as well as open-access codes that anyone, from anywhere in the world can run. Democratizing AI is now possible thanks to some fantastic folks willing to share their knowledge and expertise for the greater good.
+In this tutorial, I am going to walk through the application of one such state of the art algorithm, Resnet-18 to predict animals from 10 classes using the popular deep learning framework PyTorch which was developed by Facebook's AI Research lab. I'll show how transfer learning can achieve very high accuracies (97% here, on test data).
